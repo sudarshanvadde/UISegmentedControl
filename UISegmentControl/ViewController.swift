@@ -18,7 +18,6 @@ class ViewController: UIViewController {
         displayView.backgroundColor = UIColor.red
         
         print("Hello Siva Krishna")
-        print("Hello Sudarshan")
 
         
     }
