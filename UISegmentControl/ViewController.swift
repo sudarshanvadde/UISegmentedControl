@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         
         displayView.backgroundColor = UIColor.red
         
+        print("Hello Siva Krishna")
+        
     }
     @IBAction func segmentSelected(_ sender: UISegmentedControl) {
         
